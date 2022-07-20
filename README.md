@@ -1,5 +1,5 @@
 # Ryo-coin-
-An anime inspired ERC20 token for micro-transactions on [Shinobi Alliance](www.shinobi-alliance.com)
+An anime inspired ERC20 token for micro-transactions on www.shinobi-alliance.com
 
 ## Features of the token 
 - 8 million supply 
